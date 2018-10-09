@@ -1,0 +1,5 @@
+﻿  wordprocess.cpp
+c:\users\lnordan\source\repos\lewis_nordan_hw4\lewis_nordan_hw4\wordprocess.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\lnordan\source\repos\lewis_nordan_hw4\lewis_nordan_hw4\wordprocess.cpp(22): warning C4101: 'buffer': unreferenced local variable
+c:\users\lnordan\source\repos\lewis_nordan_hw4\lewis_nordan_hw4\wordprocess.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  lewis_Nordan_hw4.vcxproj -> C:\Users\lnordan\source\repos\lewis_Nordan_hw4\Debug\lewis_Nordan_hw4.exe
