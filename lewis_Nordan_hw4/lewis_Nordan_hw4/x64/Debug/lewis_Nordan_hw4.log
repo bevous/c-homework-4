@@ -1,0 +1,5 @@
+﻿  lewis_Nordan_hw4.cpp
+  wordprocess.cpp
+c:\users\lewis\desktop\c++ homework\c-homework-4-master\lewis_nordan_hw4\lewis_nordan_hw4\wordprocess.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lewis_Nordan_hw4.vcxproj -> C:\Users\Lewis\Desktop\c++ homework\c-homework-4-master\lewis_Nordan_hw4\x64\Debug\lewis_Nordan_hw4.exe
